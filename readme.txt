@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 add merge.
 add another line.
 模拟另一个开发者的行径。
+再次模拟冲突。
